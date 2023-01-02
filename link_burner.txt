@@ -1,0 +1,5 @@
+https://github.com/00caue/GTPfeed/blob/main/gtpfeed.xml?raw=true
+https://github.com/00caue/GTPfeed/blob/main/A55GTPfeed.xml?raw=true
+
+test
+https://feeds.feedburner.com/crazyconnection
